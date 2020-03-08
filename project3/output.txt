@@ -1,0 +1,248 @@
+lorenzo@lorenzo-VirtualBox:~/Desktop/osclass/project3$ ./DRoom 4 15 12 5 3 15 8 
+
+ -- Ninja #0 -- 
+Team: 1
+Visit Number: 1
+Total Wait Time: 0
+Total Visit Time: 3
+Total Gold Owed: 3
+
+
+ -- Ninja #1 -- 
+Team: 3
+Visit Number: 1
+Total Wait Time: 0
+Total Visit Time: 2
+Total Gold Owed: 2
+
+
+ -- Ninja #2 -- 
+Team: 0
+Visit Number: 1
+Total Wait Time: 0
+Total Visit Time: 5
+Total Gold Owed: 5
+
+
+ -- Ninja #3 -- 
+Team: 2
+Visit Number: 1
+Total Wait Time: 0
+Total Visit Time: 4
+Total Gold Owed: 4
+
+
+ -- Ninja #4 -- 
+Team: 2
+Visit Number: 1
+Total Wait Time: 0
+Total Visit Time: 2
+Total Gold Owed: 2
+
+
+ -- Ninja #5 -- 
+Team: 0
+Visit Number: 1
+Total Wait Time: 2
+Total Visit Time: 5
+Total Gold Owed: 5
+
+
+ -- Ninja #6 -- 
+Team: 3
+Visit Number: 1
+Total Wait Time: 0
+Total Visit Time: 5
+Total Gold Owed: 5
+
+
+ -- Ninja #7 -- 
+Team: 1
+Visit Number: 1
+Total Wait Time: 0
+Total Visit Time: 9
+Total Gold Owed: 9
+
+
+ -- Pirate #0 -- 
+Team: 1
+Visit Number: 1
+Total Wait Time: 7
+Total Visit Time: 4
+Total Gold Owed: 4
+
+
+ -- Pirate #1 -- 
+Team: 0
+Visit Number: 1
+Total Wait Time: 3
+Total Visit Time: 6
+Total Gold Owed: 6
+
+
+ -- Pirate #2 -- 
+Team: 2
+Visit Number: 1
+Total Wait Time: 8
+Total Visit Time: 7
+Total Gold Owed: 7
+
+
+ -- Pirate #3 -- 
+Team: 3
+Visit Number: 1
+Total Wait Time: 7
+Total Visit Time: 7
+Total Gold Owed: 7
+
+
+ -- Pirate #4 -- 
+Team: 1
+Visit Number: 1
+Total Wait Time: 10
+Total Visit Time: 9
+Total Gold Owed: 9
+
+
+ -- Ninja #8 -- 
+Team: 1
+Visit Number: 1
+Total Wait Time: 18
+Total Visit Time: 2
+Total Gold Owed: 2
+
+
+ -- Ninja #9 -- 
+Team: 0
+Visit Number: 1
+Total Wait Time: 18
+Total Visit Time: 2
+Total Gold Owed: 2
+
+
+ -- Ninja #10 -- 
+Team: 2
+Visit Number: 1
+Total Wait Time: 17
+Total Visit Time: 4
+Total Gold Owed: 4
+
+
+ -- Revisited Ninja #3-- 
+Team: 3
+Visit Number: 2
+Total Wait Time: 8
+Total Visit Time: 8
+Total Gold Owed: 12
+
+
+ -- Ninja #11 -- 
+Team: 0
+Visit Number: 1
+Total Wait Time: 15
+Total Visit Time: 6
+Total Gold Owed: 6
+
+
+ -- Pirate #5 -- 
+Team: 0
+Visit Number: 1
+Total Wait Time: 23
+Total Visit Time: 5
+Total Gold Owed: 5
+
+
+ -- Pirate #6 -- 
+Team: 2
+Visit Number: 1
+Total Wait Time: 24
+Total Visit Time: 5
+Total Gold Owed: 5
+
+
+ -- Pirate #7 -- 
+Team: 3
+Visit Number: 1
+Total Wait Time: 30
+Total Visit Time: 6
+Total Gold Owed: 0
+
+
+ -- Pirate #8 -- 
+Team: 0
+Visit Number: 1
+Total Wait Time: 39
+Total Visit Time: 3
+Total Gold Owed: 0
+
+
+ -- Pirate #9 -- 
+Team: 1
+Visit Number: 1
+Total Wait Time: 25
+Total Visit Time: 15
+Total Gold Owed: 15
+
+
+ -- Pirate #10 -- 
+Team: 2
+Visit Number: 1
+Total Wait Time: 49
+Total Visit Time: 2
+Total Gold Owed: 0
+
+
+ -- Pirate #11 -- 
+Team: 1
+Visit Number: 1
+Total Wait Time: 49
+Total Visit Time: 2
+Total Gold Owed: 0
+
+
+ -- Revisited Pirate #5-- 
+Team: 0
+Visit Number: 2
+Total Wait Time: 6
+Total Visit Time: 4
+Total Gold Owed: 9
+
+
+ -- Pirate #12 -- 
+Team: 3
+Visit Number: 1
+Total Wait Time: 19
+Total Visit Time: 6
+Total Gold Owed: 6
+
+
+ -- Pirate #13 -- 
+Team: 1
+Visit Number: 1
+Total Wait Time: 23
+Total Visit Time: 7
+Total Gold Owed: 7
+
+
+ -- Pirate #14 -- 
+Team: 0
+Visit Number: 1
+Total Wait Time: 0
+Total Visit Time: 15
+Total Gold Owed: 15
+
+
+
+ -- Costuming Department Bill -- 
+Pirates owed a total of 90 gold pieces.
+Ninjas owed a total of 57 gold pieces.
+Expenses for employing the costume teams is 20 gold pieces.
+Team 0 was busy for 51 minutes and free for 83 minutes.
+Team 1 was busy for 51 minutes and free for 83 minutes.
+Team 2 was busy for 24 minutes and free for 110 minutes.
+Team 3 was busy for 34 minutes and free for 100 minutes.
+Average queue length was 3 customers.
+Gross Revenue is 147 gold pieces.
+Average gold per visit was 5 gold pieces.
+Total revenue was 127 gold pieces.
+
